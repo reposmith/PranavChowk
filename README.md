@@ -4,10 +4,7 @@
 - 💼 **Experience**: 
   - Over 2.5 years in **Business Intelligence**, **Fintech**, **Supply Chain**, and **Consumer Goods**
   - Skilled in **Python**, **SQL**, **R**, and BI Platforms
-  - Managed over $2 billion in assets and communicated insights to **CEOs**
-- 🔧 **Current Focus**: 
-  - Building **Machine Learning** and **AI solutions** to drive financial growth
-  - Strengthening my portfolio with innovative projects in **data science** and **automation**
+  - Managed over $2 billion in assets and communicated insights to **CEOs** and **Department Heads**
 
 ### 🛠️ Technologies & Tools
 - Languages: Python, SQL, R
@@ -18,11 +15,6 @@
 🎓 **Education**
 - M.S, Information Technology & Management _(University of Texas at Dallas, May 2024)_
 - B.E, Computer Engineering _(Pune University, June 2020)_
-
-### 🌱 What I'm Learning
-- **Using LLMs to implement business case studies**
-- **RAG Implementation**
-- **Advanced Python**
 
 ### ⚡ Fun Fact
 I love repairing home equipments and reading fiction in my spare time. Also a huge Biohack nerd!
