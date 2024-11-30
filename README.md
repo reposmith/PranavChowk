@@ -31,7 +31,7 @@ I love repairing home equipments and reading fiction in my spare time. Also a hu
 
 
 ## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavChowk&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reposmith&show_icons=true&theme=tokyonight)
 
 ### 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/pranav-chawak/
